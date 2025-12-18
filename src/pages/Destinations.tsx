@@ -11,25 +11,25 @@ export default function Destinations() {
             id: 'ireland',
             name: "Ireland",
             description: "Known for its friendly people and rich history, Ireland offers high-quality education and post-study work opportunities.",
-            image: 'https://images.unsplash.com/photo-1590089415225-401eb6b9862d?q=80&w=2070&auto=format&fit=crop',
+            image: '/contries-pictures/Ireland1.jpg',
         },
         {
             id: 'uk',
             name: "United Kingdom",
-            description: "Home to some of the world’s oldest and most prestigious universities. Experience academic excellence in the UK.",
-            image: 'https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=2070&auto=format&fit=crop',
+            description: "Home to some of the world's oldest and most prestigious universities. Experience academic excellence in the UK.",
+            image: '/contries-pictures/uk1.jpg',
         },
         {
             id: 'germany',
             name: "Germany",
             description: "A hub for innovation and engineering. Enjoy low tuition fees and a vibrant international student community.",
-            image: 'https://images.unsplash.com/photo-1467269204594-9661b134dd2b?q=80&w=2070&auto=format&fit=crop',
+            image: '/contries-pictures/germany1.jpg',
         },
         {
             id: 'canada',
             name: "Canada",
             description: "Welcoming and diverse, Canada provides top-tier education and excellent pathways for permanent residency.",
-            image: 'https://images.unsplash.com/photo-1517935706615-2717063c2225?q=80&w=2070&auto=format&fit=crop',
+            image: '/contries-pictures/canada1.jpg',
         },
     ];
 
