@@ -41,7 +41,7 @@ export default function Home() {
                     </div>
 
                     <div className="relative -mx-4 sm:mx-0">
-                        <div className="flex overflow-x-auto gap-6 px-4 sm:px-0 pb-4 snap-x snap-mandatory scrollbar-hide">
+                        <div className="flex overflow-x-auto gap-6 px-4 sm:px-0 pb-4 snap-x snap-mandatory scrollbar-hide justify-start sm:justify-center">
                             <div className="bg-white p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow group flex-shrink-0 w-[280px] sm:w-[320px] text-center snap-center">
                                 <div className="w-16 h-16 bg-blue-100 text-secondary rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-secondary group-hover:text-white transition-colors">
                                     <Globe size={32} />
