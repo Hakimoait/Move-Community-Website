@@ -11,14 +11,13 @@ export default function About() {
                         <h2 className="text-3xl md:text-5xl font-bold text-secondary mb-6">About Move</h2>
                         <div className="space-y-6 text-gray-600 text-lg leading-relaxed">
                             <p>
-                                At <span className="font-bold text-secondary">Move</span>, we believe that education has no borders. Founded with a mission to empower students to achieve their global aspirations, we have emerged as a trusted partner in international education.
+                                <span className="font-bold text-secondary">Move Community</span> was created by former international students who went through the same visa stress, refusals, and confusion.
                             </p>
-                            <p>
-                                Our team consists of former international students and education experts who understand the challenges and excitement of studying abroad. We don't just process applications; we build careers and shape futures.
-                            </p>
-                            <p>
-                                From choosing the right destination to settling into a new culture, Move is with you at every step. We specialize in placing students in top institutions across Ireland, the UK, Germany, and Canada.
-                            </p>
+                            <div className="bg-primary/10 p-6 rounded-xl border-l-4 border-primary">
+                                <p className="font-medium text-secondary">
+                                    Our mission is simple: to give honest, clear and professional guidance so every Moroccan student has a real chance to study or work abroad safely.
+                                </p>
+                            </div>
                         </div>
                         <div className="mt-10">
                             <Link to="/contact" className="bg-primary text-secondary px-8 py-3 rounded-full font-bold hover:bg-yellow-400 transition-colors">
